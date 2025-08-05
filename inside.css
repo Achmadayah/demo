@@ -1,0 +1,98 @@
+
+.navbar-custom {
+  background-color: #005F57;
+  padding: 0.2rem 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-custom .nav-link {
+  font-weight: 500;
+  margin-right: 0.7rem;
+}
+
+.navbar-custom .nav-link:hover {
+  color: #e6ae07;
+}
+.logo {
+  width:200px;
+  height: 70px;
+  size-adjust: auto;
+}
+.pidio {
+  width: 500px;
+  height: 300px;
+  float: left;
+  margin-right: 10px;
+}
+h3 {
+  border-left: 5px solid #005F57;
+  padding-left: 5px;
+}
+h2 {
+  padding-top: 1rem;
+  margin-left: 15rem;
+}
+
+h4 {
+  margin-right: 200px;
+}
+.link{
+  background-color: #e6ae07;
+  width: 170px;
+  height: 30px;
+  border-radius: 20px;
+  text-align: center;
+  vertical-align: auto;
+}
+.link a {
+  text-decoration: none;
+  color: white;
+}
+a :hover {
+  color: black;
+}
+.section {
+  height: 100px;
+  border-top: 2px solid grey;
+  border-bottom: 2px solid grey;
+  text-align: center;
+  padding-top: 1rem;
+  margin-bottom: 2rem;
+}
+.btn-main {
+    color: #fff !important;
+    background-color: #008478 !important;
+    border-color: #008478 !important;
+    border-radius: 42px !important;
+    padding: .5rem 1.75rem !important;
+}
+.social {
+  width: 210px;
+  height: 30px;
+}
+.social a{
+  color: whitesmoke;
+  text-decoration: none;
+}
+.social a:hover {
+  color: rgb(151, 151, 247);
+}
+.social img {
+  width: 30px;
+}
+.footer {
+  left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 230px;
+    background-color: #414141;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 4rem;
+  
+}
+small {
+  border-top: 2px solid white;
+  padding-top: 5px;
+}
